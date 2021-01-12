@@ -82,6 +82,7 @@ body {
   grid-template-rows: 1fr;
   grid-template-areas: "banner";
   color: #fff;
+  background-color: #522806;
   font-size: 1.5rem;
 }
 
@@ -118,7 +119,7 @@ body {
 .banner a:hover,
 .banner a:focus {
   background-color: #bea59b;
-  color: #522806
+  color: #000;
 }
 
 .banner a:focus {
